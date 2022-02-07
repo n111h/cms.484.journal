@@ -25,19 +25,31 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
+
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
+
+---
+
+### 2022/02/07 13:30 - Fritz: Unity Project Setup
+
+Cleared previous Github to start from a fresh slate.
+
+Created the Unity Project we will be doing our learning in, and setup the Unity project for Git collaboration.
+
+Created folders within the project for each team member to be able to work in, and not have to worry too much about conflicts.
+
+As a group, we started figuring out how to use this journal, Ben was watching attentively, Noah directing us on what to do. Hopefully git is nice to us.
 
 ---
 
 ### 2022/02/06 19:40 - Noah: First Update
 
----
 
 [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Markdown with HTML for image resizing](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
----
 
 Following are some images of the whiteboard after our meeting to discuss design on Sunday (2022/02/06).  *Please note, the full sized images are available in the assests folder*:
 
