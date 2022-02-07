@@ -9,7 +9,7 @@ title="hover text" width="512" height="512"/>
 ```
 NOTE:  please use the following format for entries into the jornal:
 
-### YYYYMMDD HHMM - NAME: TITLE
+### YYYY/MM/DD HH:MM - NAME: TITLE
 ---
 resource links
 ---
@@ -22,10 +22,14 @@ a quick .md formatting guide is available at the link below:
 ```
 [Quick .md Formatting Guide](#quick-md-formatting-guide)
 
+---
 
+### Updates:
+[2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
+---
 
-### 20220206 1940 - Noah: A First Update
+### 2022/02/06 19:40 - Noah: First Update
 
 ---
 
@@ -49,8 +53,8 @@ title="20220206.scenesAndGameplay.jpg" width="1008" height="756"/>
 
 ToDo and Obstacles:
 
-<img src="./assets/20220206.todoAndObstacles.jpg" alt="20220206.todoAndObstacles.jpg"
-title="20220206.todoAndObstacles.jpg" width="1008" height="756"/>
+<img src="./assets/20220206.toDoAndObstacles.jpg" alt="20220206.toDoAndObstacles.jpg"
+title="20220206.toDoAndObstacles.jpg" width="1008" height="756"/>
 
 I have created a repo for storing our journal.  I also animated our studio name and added it to the top of the journal.  I did a little research into markdown - particularly as implemented by GitHub.  The resources in the links above came from that effort.
 
@@ -128,3 +132,5 @@ title="hover text" width="256" height="256"/>
 title="hover text" width="256" height="256"/>
 
 Additional .md formatting information can be found at the following link:
+
+[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
