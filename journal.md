@@ -25,11 +25,16 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
+
 [2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
+
+Cloned the journal from github and unity project from github and began research on procedural generation.
 
 ### 2022/02/07 13:30 - Fritz: Unity Project Setup
 
