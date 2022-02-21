@@ -32,9 +32,12 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+
 ### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
 
 Cloned the journal from github and unity project from github and began research on procedural generation.
+
+---
 
 ### 2022/02/07 13:30 - Fritz: Unity Project Setup
 
