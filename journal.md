@@ -29,10 +29,11 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
 
+[2022/02/07 11:25 - Deandra](#20220207-1125---deandra-udemy-course-learning)
+
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
-
 ### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
 
 Cloned the journal from github and unity project from github and began research on procedural generation.
@@ -48,6 +49,13 @@ Created the Unity Project we will be doing our learning in, and setup the Unity 
 Created folders within the project for each team member to be able to work in, and not have to worry too much about conflicts.
 
 As a group, we started figuring out how to use this journal, Ben was watching attentively, Noah directing us on what to do. Hopefully git is nice to us.
+
+---
+
+### 2022/02/07 11:25 - Deandra: Udemy course learning 
+
+Completed one hour of Udemy course on game development. Attempted to create a laser shooter game.
+
 
 ---
 
