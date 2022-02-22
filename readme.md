@@ -113,6 +113,8 @@ Conclusion, Tracking of events, and destroying checks will be useful for the mob
 
 Resources:
 
+https://www.youtube.com/watch?v=FjD_DwbYYcs
+
 https://www.youtube.com/watch?v=-2Rwsc0COqQ
 
 ---
