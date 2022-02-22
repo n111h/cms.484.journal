@@ -25,7 +25,17 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+<<<<<<< HEAD:journal.md
 [2020/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+=======
+[2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
+
+[2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
+
+[2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
+
+[2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
+>>>>>>> ea749f9418f98b76189fe49b4c513d373fe2e3a8:readme.md
 
 [2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
 
@@ -37,6 +47,7 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
+<<<<<<< HEAD:journal.md
 ### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
 
 Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
@@ -51,12 +62,59 @@ Resources:
 https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
 
 ---
+=======
+--- 
+
+### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
+
+I came up with the following concept diagrams to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
+
+/insert images/
+
+I also explored and messed around with Serialization, and came up with some codes on how we might be able to use Binary Serialization instead of Unity’s PlayerPrefs to store data of different types in a more efficient, and secure manner. 
+
+---
+
+### 2022/02/18 14:00 - Fritz: Sketching Diagrams and Exploring Requirements
+
+I went into a room and sketched what I thought the requirements of the game could look like in the game. 
+
+<img src="./assets/fritz.board1.jpg" alt="fritz.board1.jpg"
+title="fritz.board1.jpg" width="1008" height="756"/>
+
+<img src="./assets/fritz.board2.jpg" alt="fritz.board2.jpg"
+title="fritz.board2.jpg" width="1008" height="756"/>
+
+---
+
+### 2022/02/14 18:00 - Fritz: Reading and Studying Identified Resources
+
+I went over all the identified resources on 2022/02/10 (link) and studied how I should approach the data management design of the game. I failed to take relevant notes but absorbed a lot of material that I think will help me come up with sketches in the future. I also jotted down a list of things I thought the game would need based on the diagrams our group sketched on the whiteboard in our first meeting. 
+
+---
+
+### 2022/02/10 14:00 - Fritz: Finding Resources
+
+I was told to focus my research on how to manage the scene and data management side of the game. 
+
+I did some research on the topic, and identified a few good resources:
+
+http://www.glenstevens.ca/unity3d-best-practices/
+https://learn.unity.com/tutorial/assets-resources-and-assetbundles
+https://www.youtube.com/watch?v=cPhM8wNDNng
+https://www.youtube.com/watch?v=_hAzWgQupms
+
+I did a quick read/glance over the material in the resource to determine whether it seemed useful or not but did not go through it properly as it was extensive. 
+
+---
+
+>>>>>>> ea749f9418f98b76189fe49b4c513d373fe2e3a8:readme.md
 ### 2022/02/10 9:23 - Ben: Udemy Course Learning
 
 Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
 
-
 ---
+
 ### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
 
 Cloned the journal from github and unity project from github and began research on procedural generation.
