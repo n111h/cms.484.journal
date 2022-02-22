@@ -29,6 +29,8 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
 
+[2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
+
 [2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
 
 [2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
@@ -36,6 +38,11 @@ a quick .md formatting guide is available at the link below:
 [2022/02/07 11:25 - Deandra](#20220207-1125---deandra-udemy-course-learning)
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
+
+### 2022/02/10 9:23 - Ben: Udemy Course Learning
+
+Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
+
 
 ---
 
