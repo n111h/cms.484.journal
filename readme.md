@@ -25,17 +25,17 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
-<<<<<<< HEAD:journal.md
-[2020/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
-=======
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
 
 [2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
 
+[2022/02/15 11:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
+
 [2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
 
+[2022/02/12 11:22 -Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+
 [2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
->>>>>>> ea749f9418f98b76189fe49b4c513d373fe2e3a8:readme.md
 
 [2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
 
@@ -68,6 +68,18 @@ title="fritz.board1.jpg" width="1008" height="756"/>
 
 <img src="./assets/fritz.board2.jpg" alt="fritz.board2.jpg"
 title="fritz.board2.jpg" width="1008" height="756"/>
+
+---
+### 2022/02/15 11:57 - Ben: Researched Chunk Spawning and Event Tracking
+
+Used Matt MirrorFish's video to do some researching on tracking spawning of chunks.
+
+Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
+
+Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
+
+Resources:
+https://www.youtube.com/watch?v=-2Rwsc0COqQ
 
 ---
 
