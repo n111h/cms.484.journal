@@ -65,9 +65,11 @@ The obstacles in the game will have coliders, padding, and various interactions 
 Did Additional Research on developing mobile apps in Unity and testing of them.
 
 Resources: 
+
 https://www.youtube.com/watch?v=6Y0U8GHiuBA
-https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1
-(Playlist linked for Tutorials on Game development for Mobile with Unity)
+
+https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1 (Playlist linked for Tutorials on Game development for Mobile with Unity)
+
 ---
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
 
@@ -110,6 +112,7 @@ Began experimenting with the program myself in unity, watching the level be endl
 Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
 
 Resources:
+
 https://www.youtube.com/watch?v=-2Rwsc0COqQ
 
 ---
@@ -131,6 +134,7 @@ Coded a Test Environment for the Chunks, and created a test tile map.
 Determined this might not be the best option for our purposes of Developing a mobile app.
 
 Resources: 
+
 https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
 
 ---
