@@ -54,6 +54,13 @@ a quick .md formatting guide is available at the link below:
 --- 
 ### 2022/22/22 2:00 - Ben: Finishing Research on Tiles
 
+Resources: 
+
+https://www.youtube.com/watch?v=6Y0U8GHiuBA
+
+https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1 (Playlist linked for Tutorials on Game development for Mobile with Unity)
+
+
 I finished up my reasearch on using tiles and tile managing.
 
 I primarily used a video on generating infinite tiles which will be useful for our game this video was in 3D.
@@ -64,11 +71,6 @@ The obstacles in the game will have coliders, padding, and various interactions 
 
 Did Additional Research on developing mobile apps in Unity and testing of them.
 
-Resources: 
-
-https://www.youtube.com/watch?v=6Y0U8GHiuBA
-
-https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1 (Playlist linked for Tutorials on Game development for Mobile with Unity)
 
 ---
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
@@ -106,16 +108,16 @@ title="fritz board 2.jpg" width="442" height="273"/>
 ---
 ### 2022/02/15 11:57 - Ben: Researched Chunk Spawning and Event Tracking
 
-Used Matt MirrorFish's video to do some researching on tracking spawning of chunks.
-Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
-
-Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
-
 Resources:
 
 https://www.youtube.com/watch?v=FjD_DwbYYcs
 
 https://www.youtube.com/watch?v=-2Rwsc0COqQ
+
+Used Matt MirrorFish's video to do some researching on tracking spawning of chunks.
+Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
+
+Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
 
 ---
 
@@ -127,6 +129,10 @@ I went over all the identified resources on 2022/02/10 (link) and studied how I 
 
 ### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
 
+Resources: 
+
+https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
+
 Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
 
 Used strata create various chunks of arrays to be used to generate additional chunks.
@@ -134,10 +140,6 @@ Used strata create various chunks of arrays to be used to generate additional ch
 Coded a Test Environment for the Chunks, and created a test tile map.
 
 Determined this might not be the best option for our purposes of Developing a mobile app.
-
-Resources: 
-
-https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
 
 ---
 
