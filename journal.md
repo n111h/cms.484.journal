@@ -25,6 +25,8 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2020/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+
 [2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
 
 [2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
@@ -35,6 +37,20 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
+### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
+
+Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
+
+Used strata create various chunks of arrays to be used to generate additional chunks.
+
+Coded a Test Environment for the Chunks, and created a test tile map.
+
+Determined this might not be the best option for our purposes of Developing a mobile app.
+
+Resources: 
+https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
+
+---
 ### 2022/02/10 9:23 - Ben: Udemy Course Learning
 
 Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
