@@ -39,18 +39,11 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
-### 2022/02/10 9:23 - Ben: Udemy Course Learning
-
-Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
-
-
 ---
 
 ### 2022/02/18 - Fritz: Sketching Diagrams and Exploring Requirements
 
 I went into a room and sketched what I thought the requirements of the game could look like in the game. 
-
-
 
 ---
 
@@ -72,6 +65,12 @@ https://www.youtube.com/watch?v=cPhM8wNDNng
 https://www.youtube.com/watch?v=_hAzWgQupms
 
 I did a quick read/glance over the material in the resource to determine whether it seemed useful or not but did not go through it properly as it was extensive. 
+
+---
+
+### 2022/02/10 9:23 - Ben: Udemy Course Learning
+
+Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
 
 ---
 
