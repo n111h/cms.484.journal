@@ -73,9 +73,10 @@ https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4
 ---
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
 
-I came up with the following concept diagrams to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
+I came up with the following concept diagram to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
 
-/insert images/
+<img src="./assets/fritz diagram 1.jpg" alt="fritz diagram 1.jpg"
+title="fritz diagram 1.jpg" width="420" height="377"/>
 
 I also explored and messed around with Serialization, and came up with some codes on how we might be able to use Binary Serialization instead of Unity’s PlayerPrefs to store data of different types in a more efficient, and secure manner. 
 
@@ -106,7 +107,6 @@ title="fritz board 2.jpg" width="664" height="410"/>
 ### 2022/02/15 11:57 - Ben: Researched Chunk Spawning and Event Tracking
 
 Used Matt MirrorFish's video to do some researching on tracking spawning of chunks.
-
 Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
 
 Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
