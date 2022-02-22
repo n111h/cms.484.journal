@@ -47,22 +47,6 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
-<<<<<<< HEAD:journal.md
-### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
-
-Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
-
-Used strata create various chunks of arrays to be used to generate additional chunks.
-
-Coded a Test Environment for the Chunks, and created a test tile map.
-
-Determined this might not be the best option for our purposes of Developing a mobile app.
-
-Resources: 
-https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
-
----
-=======
 --- 
 
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
@@ -93,6 +77,21 @@ I went over all the identified resources on 2022/02/10 (link) and studied how I 
 
 ---
 
+### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
+
+Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
+
+Used strata create various chunks of arrays to be used to generate additional chunks.
+
+Coded a Test Environment for the Chunks, and created a test tile map.
+
+Determined this might not be the best option for our purposes of Developing a mobile app.
+
+Resources: 
+https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
+
+---
+
 ### 2022/02/10 14:00 - Fritz: Finding Resources
 
 I was told to focus my research on how to manage the scene and data management side of the game. 
@@ -108,7 +107,6 @@ I did a quick read/glance over the material in the resource to determine whether
 
 ---
 
->>>>>>> ea749f9418f98b76189fe49b4c513d373fe2e3a8:readme.md
 ### 2022/02/10 9:23 - Ben: Udemy Course Learning
 
 Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
