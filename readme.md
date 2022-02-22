@@ -25,6 +25,8 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/02/22 2:00 - Ben](#20222222-200---ben-finishing-research-on-tiles)
+
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
 
 [2022/02/20 1:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
@@ -50,7 +52,23 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 --- 
+### 2022/22/22 2:00 - Ben: Finishing Research on Tiles
 
+I finished up my reasearch on using tiles and tile managing.
+
+I primarily used a video on generating infinite tiles which will be useful for our game this video was in 3D.
+
+It will have to be converted to 2.5-2D for our purposes.
+
+The obstacles in the game will have coliders, padding, and various interactions with the dog and sheep.
+
+Did Additional Research on developing mobile apps in Unity and testing of them.
+
+Resources: 
+https://www.youtube.com/watch?v=6Y0U8GHiuBA
+https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1
+(Playlist linked for Tutorials on Game development for Mobile with Unity)
+---
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
 
 I came up with the following concept diagrams to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
@@ -61,12 +79,15 @@ I also explored and messed around with Serialization, and came up with some code
 
 ---
 ### 2022/20/22 1:10 - Ben: Created Chunk Concept Diagram
+
 Created the Following Chunk Concept Diagram.
 
 <img src="./assets/Procedural Generation Concept Chunk Based.jpeg" alt="Procedural Generation Concept Chunk Based.jpeg"
 title="Procedural Generation Concept Chunk Based.jpeg" width="1008" height="756"/>
 
 Sketched gameplay and ways of deleting based on research.
+
+Created Using LucidChart.
 
 ---
 ### 2022/02/18 14:00 - Fritz: Sketching Diagrams and Exploring Requirements
