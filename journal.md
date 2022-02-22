@@ -25,6 +25,10 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
+
+[2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
+
 [2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
 
 [2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
@@ -39,11 +43,27 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
+--- 
+
+### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
+
+I came up with the following concept diagrams to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
+
+/insert images/
+
+I also explored and messed around with Serialization, and came up with some codes on how we might be able to use Binary Serialization instead of Unity’s PlayerPrefs to store data of different types in a more efficient, and secure manner. 
+
 ---
 
-### 2022/02/18 - Fritz: Sketching Diagrams and Exploring Requirements
+### 2022/02/18 14:00 - Fritz: Sketching Diagrams and Exploring Requirements
 
 I went into a room and sketched what I thought the requirements of the game could look like in the game. 
+
+<img src="./assets/fritz.board1.jpg" alt="fritz.board1.jpg"
+title="fritz.board1.jpg" width="1008" height="756"/>
+
+<img src="./assets/fritz.board2.jpg" alt="fritz.board2.jpg"
+title="fritz.board2.jpg" width="1008" height="756"/>
 
 ---
 
