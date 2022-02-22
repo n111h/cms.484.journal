@@ -27,6 +27,8 @@ a quick .md formatting guide is available at the link below:
 ### Updates:
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
 
+[2022/02/20 1:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
+
 [2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
 
 [2022/02/15 11:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
@@ -58,7 +60,15 @@ I came up with the following concept diagrams to try modelling a possible schema
 I also explored and messed around with Serialization, and came up with some codes on how we might be able to use Binary Serialization instead of Unity’s PlayerPrefs to store data of different types in a more efficient, and secure manner. 
 
 ---
+### 2022/20/22 1:10 - Ben: Created Chunk Concept Diagram
+Created the Following Chunk Concept Diagram.
 
+<img src="./assets/Procedural Generation Concept Chunk Based.jpeg" alt="Procedural Generation Concept Chunk Based.jpeg"
+title="Procedural Generation Concept Chunk Based.jpeg" width="1008" height="756"/>
+
+Sketched gameplay and ways of deleting based on research.
+
+---
 ### 2022/02/18 14:00 - Fritz: Sketching Diagrams and Exploring Requirements
 
 I went into a room and sketched what I thought the requirements of the game could look like in the game. 
