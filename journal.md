@@ -25,6 +25,10 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
+
+[2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
+
 [2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
 
 [2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
@@ -34,6 +38,36 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+
+### 2022/02/18 - Fritz: Sketching Diagrams and Exploring Requirements
+
+I went into a room and sketched what I thought the requirements of the game could look like in the game. 
+
+
+
+---
+
+### 2022/02/14 18:00 - Fritz: Reading and Studying Identified Resources
+
+I went over all the identified resources on 2022/02/10 (link) and studied how I should approach the data management design of the game. I failed to take relevant notes but absorbed a lot of material that I think will help me come up with sketches in the future. I also jotted down a list of things I thought the game would need based on the diagrams our group sketched on the whiteboard in our first meeting. 
+
+---
+
+### 2022/02/10 14:00 - Fritz: Finding Resources
+
+I was told to focus my research on how to manage the scene and data management side of the game. 
+
+I did some research on the topic, and identified a few good resources:
+
+http://www.glenstevens.ca/unity3d-best-practices/
+https://learn.unity.com/tutorial/assets-resources-and-assetbundles
+https://www.youtube.com/watch?v=cPhM8wNDNng
+https://www.youtube.com/watch?v=_hAzWgQupms
+
+I did a quick read/glance over the material in the resource to determine whether it seemed useful or not but did not go through it properly as it was extensive. 
+
+---
+
 ### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
 
 Cloned the journal from github and unity project from github and began research on procedural generation.
