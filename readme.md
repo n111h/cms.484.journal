@@ -96,11 +96,11 @@ Created Using LucidChart.
 
 I went into a room and sketched what I thought the requirements of the game could look like in the game. 
 
-<img src="./assets/fritz.board1.jpg" alt="fritz.board1.jpg"
-title="fritz.board1.jpg" width="1008" height="756"/>
+<img src="./assets/fritz board 1.jpg" alt="fritz board 1.jpg"
+title="fritz board 1.jpg" width="642" height="417"/>
 
-<img src="./assets/fritz.board2.jpg" alt="fritz.board2.jpg"
-title="fritz.board2.jpg" width="1008" height="756"/>
+<img src="./assets/fritz board 2.jpg" alt="fritz board 2.jpg"
+title="fritz board 2.jpg" width="664" height="410"/>
 
 ---
 ### 2022/02/15 11:57 - Ben: Researched Chunk Spawning and Event Tracking
