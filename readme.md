@@ -49,13 +49,17 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
 
-[2022/02/12 11:22 -Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+[2022/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+
+[2022/02/11 18:30 - Noah](#20220211-1830---noah-vs-code-intellisense-fix)
 
 [2022/02/11 13:30 - Deandra](#20220211-1330---deandra-touch-controls-for-dog-movement)
 
 [2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
 
-[2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
+[2022/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
+
+[2022/02/08 20:00 - Noah](#20220208-2000---noah-started-udemy-course)
 
 [2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
 
@@ -73,9 +77,9 @@ a quick .md formatting guide is available at the link below:
 
 Resources: 
 
-https://www.youtube.com/watch?v=6Y0U8GHiuBA
+ - [https://www.youtube.com/watch?v=6Y0U8GHiuBA](https://www.youtube.com/watch?v=6Y0U8GHiuBA)
 
-https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1 (Playlist linked for Tutorials on Game development for Mobile with Unity)
+ - [https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1](https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1) (Playlist linked for Tutorials on Game development for Mobile with Unity)
 
 
 I finished up my reasearch on using tiles and tile managing.
@@ -118,7 +122,7 @@ Created Using LucidChart.
 
 Resource:
 
-[Unity sprites documentation](https://docs.unity3d.com/2021.1/Documentation/Manual/Sprites.html)
+ - [Unity sprites documentation](https://docs.unity3d.com/2021.1/Documentation/Manual/Sprites.html)
 
 Our group hasn't decided on whether we're using low poly or high poly graphics. I have been doing research using unity documentation on how to create custom sprites for a player (dog in this case). I haven't attempted testing this out yet, but will be coming back to it.
 
@@ -160,9 +164,9 @@ https://www.youtube.com/watch?v=hPVSaG7jT5I
 
 Resources:
 
-https://www.youtube.com/watch?v=FjD_DwbYYcs
+ - [https://www.youtube.com/watch?v=FjD_DwbYYcs](https://www.youtube.com/watch?v=FjD_DwbYYcs)
 
-https://www.youtube.com/watch?v=-2Rwsc0COqQ
+ - [https://www.youtube.com/watch?v=-2Rwsc0COqQ](https://www.youtube.com/watch?v=-2Rwsc0COqQ)
 
 Used Matt MirrorFish's video to do some researching on tracking spawning of chunks.
 Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
@@ -195,7 +199,7 @@ I went over all the identified resources on 2022/02/10 (link) and studied how I 
 
 Resources: 
 
-https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects
+ - [https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects](https://www.gamedeveloper.com/design/2d-procedural-generation-in-unity-with-scriptableobjects)
 
 Started trying to use strata to develop procedural levels, used this for roguelike duegueon development.
 
@@ -207,13 +211,36 @@ Determined this might not be the best option for our purposes of Developing a mo
 
 ---
 
+### 2022/02/11 18:30 - Noah: VS Code IntelliSense Fix
+
+Resources:
+ - [VS Code: Unity Development documentation page](https://code.visualstudio.com/docs/other/unity)
+ - [.NET Core SDK](https://dotnet.microsoft.com/en-us/download)
+ - [.NET Framework Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471)
+ - [stackoverflow question](https://stackoverflow.com/questions/59823422/vs-code-intellisense-not-working-for-unity3d)
+
+When I was working on the player movement script for the udemdy course I noticed that IntelliSense (the feature that allows tab-completion, and gives you information on parameters) wasn't working.  After searching I found this [VS Code: Unity Development documentation page](https://code.visualstudio.com/docs/other/unity).  Per that documentation, I installed the [.NET Core SDK](https://dotnet.microsoft.com/en-us/download), and following the "Enabling code completion (For recent versions of Unity)" section, I also installed the [.NET Framework Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471).  After restarting my computer and reloading the project, Intellisense still didn't seem to be working.  More searching led me to this [stackoverflow question](https://stackoverflow.com/questions/59823422/vs-code-intellisense-not-working-for-unity3d) - the top answer pointed out the (Edit > Preferences > External Tools) menu.  In that window, I changed the "External Script Editor" to Visual Studio Code, selected all the boxes under "Generate .csproj files for:", and selected "Regenerate project files".
+
+![Prefrences](./assets/editPref.PNG)
+
+After that fix IntelliSense seemed to be back up and running!
+
+![Tab-Complete](./assets/tabComplete.png)
+
+*Tab-Complete*
+
+![Parameter Info](./assets/parameterInfo.png)
+
+*Parameter Info*
+
+---
+
 ### 2022/02/11 13:30 - Deandra: Touch controls for dog movement
 
 Resources:
 
-[Touch Controls in Unity video](https://www.youtube.com/watch?v=bp2PiFC9sSs)
-
-[Touch & Go video](https://www.youtube.com/watch?v=Cw6B-VYNba0)
+ - [Touch Controls in Unity video](https://www.youtube.com/watch?v=bp2PiFC9sSs)
+ - [Touch & Go video](https://www.youtube.com/watch?v=Cw6B-VYNba0)
 
 I watched these youtube videos to help me understand how touch controls work in Unity. I found the resource to be extremely helpful to begin a dog prototype as they covered how to implement different movements for a 2D player. The video covered using a joystick to help the player move around, which I think would be an awesome idea but would need to consult with my team members to see if they like the idea.
 
@@ -225,10 +252,10 @@ I was told to focus my research on how to manage the scene and data management s
 
 I did some research on the topic, and identified a few good resources:
 
-http://www.glenstevens.ca/unity3d-best-practices/
-https://learn.unity.com/tutorial/assets-resources-and-assetbundles
-https://www.youtube.com/watch?v=cPhM8wNDNng
-https://www.youtube.com/watch?v=_hAzWgQupms
+ - [http://www.glenstevens.ca/unity3d-best-practices/](http://www.glenstevens.ca/unity3d-best-practices/)
+ - [https://learn.unity.com/tutorial/assets-resources-and-assetbundles](https://learn.unity.com/tutorial/assets-resources-and-assetbundles)
+ - [https://www.youtube.com/watch?v=cPhM8wNDNng](https://www.youtube.com/watch?v=cPhM8wNDNng)
+ - [https://www.youtube.com/watch?v=_hAzWgQupms](https://www.youtube.com/watch?v=_hAzWgQupms)
 
 I did a quick read/glance over the material in the resource to determine whether it seemed useful or not but did not go through it properly as it was extensive. 
 
@@ -237,6 +264,17 @@ I did a quick read/glance over the material in the resource to determine whether
 ### 2022/02/10 9:23 - Ben: Udemy Course Learning
 
 Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
+
+---
+
+### 2022/02/08 20:00 - Noah: Started Udemy Course
+
+Began the udemy course:
+ - Imported assets and installed needed packages
+ - Created player and enemy objects
+ - Wrote script to handle player movement
+
+ *ISSUE: VS Code IntelliSense not working for Unity Libraries*
 
 ---
 
@@ -273,10 +311,10 @@ Completed one hour of Udemy course on game development. Attempted to create a la
 
 ### 2022/02/06 19:40 - Noah: First Update
 
+Resouces:
 
-[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Markdown with HTML for image resizing](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
+ - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ - [Markdown with HTML for image resizing](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 
 Following are some images of the whiteboard after our meeting to discuss design on Sunday (2022/02/06).  *Please note, the full sized images are available in the assests folder*:
