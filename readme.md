@@ -7,7 +7,7 @@ title="hover text" width="512" height="512"/>
 
 ---
 ```
-NOTE:  please use the following format for entries into the jornal:
+NOTE:  please use the following format for entries into the journal:
 
 ### YYYY/MM/DD HH:MM - NAME: TITLE
 ---
@@ -53,7 +53,7 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
 
-[2022/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
+[2022/02/12 11:22 - Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-generation)
 
 [2022/02/11 18:30 - Noah](#20220211-1830---noah-vs-code-intellisense-fix)
 
@@ -86,13 +86,13 @@ Resources:
  - [https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1](https://www.youtube.com/watch?v=CGleQZVgdN4&list=PLBIb_auVtBwCKQk6blxNPYC5GEuaC4DGm&index=1) (Playlist linked for Tutorials on Game development for Mobile with Unity)
 
 
-I finished up my reasearch on using tiles and tile managing.
+I finished up my research on using tiles and tile managing.
 
 I primarily used a video on generating infinite tiles which will be useful for our game this video was in 3D.
 
 It will have to be converted to 2.5-2D for our purposes.
 
-The obstacles in the game will have coliders, padding, and various interactions with the dog and sheep.
+The obstacles in the game will have colliders, padding, and various interactions with the dog and sheep.
 
 Did Additional Research on developing mobile apps in Unity and testing of them.
 
@@ -232,7 +232,7 @@ I went over all the identified resources on 2022/02/10 (link) and studied how I 
 
 ---
 
-### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Geneartion
+### 2022/02/12 11:22 - Ben: Began Working with Strata for Procedural Generation
 
 Resources: 
 
@@ -258,7 +258,7 @@ Resources:
 
 When I was working on the player movement script for the udemdy course I noticed that IntelliSense (the feature that allows tab-completion, and gives you information on parameters) wasn't working.  After searching I found this [VS Code: Unity Development documentation page](https://code.visualstudio.com/docs/other/unity).  Per that documentation, I installed the [.NET Core SDK](https://dotnet.microsoft.com/en-us/download), and following the "Enabling code completion (For recent versions of Unity)" section, I also installed the [.NET Framework Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471).  After restarting my computer and reloading the project, Intellisense still didn't seem to be working.  More searching led me to this [stackoverflow question](https://stackoverflow.com/questions/59823422/vs-code-intellisense-not-working-for-unity3d) - the top answer pointed out the (Edit > Preferences > External Tools) menu.  In that window, I changed the "External Script Editor" to Visual Studio Code, selected all the boxes under "Generate .csproj files for:", and selected "Regenerate project files".
 
-![Prefrences](./assets/editPref.PNG)
+![Preferences](./assets/editPref.PNG)
 
 After that fix IntelliSense seemed to be back up and running!
 
@@ -302,7 +302,7 @@ I did a quick read/glance over the material in the resource to determine whether
 
 ### 2022/02/10 9:23 - Ben: Udemy Course Learning
 
-Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser Shooter Game as a platform.
+Watched 2 hours of video to familiarize myself with Unity using the Udemy Laser Shooter Game as a platform.
 
 ---
 
@@ -350,13 +350,13 @@ Completed one hour of Udemy course on game development. Attempted to create a la
 
 ### 2022/02/06 19:40 - Noah: First Update
 
-Resouces:
+Resources:
 
  - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [Markdown with HTML for image resizing](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 
-Following are some images of the whiteboard after our meeting to discuss design on Sunday (2022/02/06).  *Please note, the full sized images are available in the assests folder*:
+Following are some images of the whiteboard after our meeting to discuss design on Sunday (2022/02/06).  *Please note, the full sized images are available in the assets folder*:
 
 Full Board:
 
@@ -375,9 +375,9 @@ title="20220206.toDoAndObstacles.jpg" width="1008" height="756"/>
 
 I have created a repo for storing our journal.  I also animated our studio name and added it to the top of the journal.  I did a little research into markdown - particularly as implemented by GitHub.  The resources in the links above came from that effort.
 
-There is some difficulty getting images to scale appropraitely in the document.  I have decided to use the HTML method outlined in the second link to address that issue.  It can also be avoided entirely by making sure the image size in the asset folder is the same size it should appear in the document.
+There is some difficulty getting images to scale appropriately in the document.  I have decided to use the HTML method outlined in the second link to address that issue.  It can also be avoided entirely by making sure the image size in the asset folder is the same size it should appear in the document.
 
-We will use headers in our updates, so we can link to them later in the document.  I also suggest using 24hour time so we can avoid AM/PM abiguity.
+We will use headers in our updates, so we can link to them later in the document.  I also suggest using 24hour time so we can avoid AM/PM ambiguity.
 
 
 ### Quick .md Formatting Guide:
