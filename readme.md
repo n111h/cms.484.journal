@@ -29,7 +29,9 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
 
-[2022/02/20 13:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
+[2022/02/22 13:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
+
+[2022/02/21 22:00 -Noah](#20220221-2200---noah-messing-around-with-herder-projectprototype)
 
 [2022/02/19 15:34 - Deandra](#20220219-1534---deandra-dog-graphics-and-visual-effects)
 
@@ -117,6 +119,17 @@ title="Procedural Generation Concept Chunk Based.jpeg" width="1008" height="756"
 Sketched gameplay and ways of deleting based on research.
 
 Created Using LucidChart.
+
+---
+
+### 2022/02/21 22:00 - Noah: Messing Around With Herder Project/Prototype
+
+After pulling the latest copy of the Herder project from git and launching it through Unity Hub, I got an error message "This project was last saved with editor version: 2020.3.27f1".  I continued and I don't think there were any issues, but we probably need to be more careful with what version of the editor we are using once we start the project.  The project booted into "safemode" because there were errors in a script.  After fixing the error (missing `;`), I loaded into the project proper and began creating "dog" and "sheep" prefabs.
+
+<img src="./assets/sheepDogPrototype.PNG" alt="Sheep/Dog Prototype"
+title="Sheep/Dog Prototype" width="645" height="404"/>
+
+Still need to add play/dog movement (similar to laserDefender) and update sheep position/rotation based on that.
 
 ---
 
