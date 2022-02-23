@@ -25,15 +25,23 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
-[2022/02/22 2:00 - Ben](#20222222-200---ben-finishing-research-on-tiles)
+[2022/02/22 14:00 - Ben](#20222222-200---ben-finishing-research-on-tiles)
 
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
 
-[2022/02/20 1:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
+[2022/02/20 13:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
+
+[2022/02/18 19:00 - Alex](#20220218-1900---alex-udemy-course-part-2)
 
 [2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
 
+[2022/02/17 19:00 - Alex](#20220217-1900---alex-udemy-course-part-1)
+
+[2022/02/16 19:00 - Alex](#20220216-1900---alex-animation-timeline)
+
 [2022/02/15 11:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
+
+[2022/02/15 9:00 - Alex](#20220215---alex-unity-setup-and-exploration)
 
 [2022/02/14 18:00 - Fritz](#20220214-1800---fritz-reading-and-studying-identified-resources)
 
@@ -52,7 +60,8 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 --- 
-### 2022/22/22 2:00 - Ben: Finishing Research on Tiles
+
+### 2022/22/22 14:00 - Ben: Finishing Research on Tiles
 
 Resources: 
 
@@ -71,8 +80,8 @@ The obstacles in the game will have coliders, padding, and various interactions 
 
 Did Additional Research on developing mobile apps in Unity and testing of them.
 
-
 ---
+
 ### 2022/02/22 10:00 - Fritz: Digital Concept Diagrams
 
 I came up with the following concept diagram to try modelling a possible schema of how we will be organizing our data within the game, and how this layer will communicate with different components of the game. 
@@ -83,7 +92,8 @@ title="fritz diagram 1.jpg" width="420" height="377"/>
 I also explored and messed around with Serialization, and came up with some codes on how we might be able to use Binary Serialization instead of Unity’s PlayerPrefs to store data of different types in a more efficient, and secure manner. 
 
 ---
-### 2022/20/22 1:10 - Ben: Created Chunk Concept Diagram
+
+### 2022/20/22 13:10 - Ben: Created Chunk Concept Diagram
 
 Created the Following Chunk Concept Diagram.
 
@@ -95,6 +105,13 @@ Sketched gameplay and ways of deleting based on research.
 Created Using LucidChart.
 
 ---
+
+### 2022/02/18 19:00 - Alex: Udemy Course Part 2
+
+I spent another 30 min on the project doing the next 3 videos of the Udemy course which were instantiating enemies, coroutines, and while loops. Again, just trying to learn the system before going straight to my task. Its going smoothly as of right now. It takes you step by steps in the videos but don’t feel super comfortable with the information.
+
+---
+
 ### 2022/02/18 14:00 - Fritz: Sketching Diagrams and Exploring Requirements
 
 I went into a room and sketched what I thought the requirements of the game could look like in the game. 
@@ -106,7 +123,22 @@ title="fritz board 1.jpg" width="428" height="278"/>
 title="fritz board 2.jpg" width="442" height="273"/>
 
 ---
-### 2022/02/15 11:57 - Ben: Researched Chunk Spawning and Event Tracking
+
+### 2022/02/17 19:00 - Alex: Udemy Course Part 1
+
+I spent about 30 min again on our project. I continued the Udemy course on the laser defender. The videos I watched today was the boundaries, enemies, and pathfinding. I’m just trying to learn the basics of Unity before trying to focus on my specific task after yesterday seeing animations can go in-depth.
+
+---
+
+### 2022/02/16 19:00 - Alex: Animation Timeline
+
+Today I only spent about 30 minutes continuing my exploration of Unity. Today I focused more on the task I was given into the group which was Art Animations/ Polishing up. I found a video on YouTube that has of Animation basics in Unity. I was only able to get through the first video and get a true grasp of what he was explaining. This was more of timeline animation then actual programming animations. 
+
+https://www.youtube.com/watch?v=hPVSaG7jT5I
+
+---
+
+### 2022/02/15 23:57 - Ben: Researched Chunk Spawning and Event Tracking
 
 Resources:
 
@@ -118,6 +150,14 @@ Used Matt MirrorFish's video to do some researching on tracking spawning of chun
 Began experimenting with the program myself in unity, watching the level be endlessly generator with the track.
 
 Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
+
+---
+
+### 2022/02/15 9:00 - Alex: Unity Setup and Exploration
+
+I spent about 40 min around the Unity program trying out different scenes, seeing what the program can do. I am also started in a section in Udemy creating a Laser Defender. I only got to finish up to the Unity Input System today.
+
+https://www.udemy.com/course/unitycourse/learn/lecture/28711402#overview
 
 ---
 
