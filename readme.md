@@ -31,6 +31,8 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/20 13:10 - Ben](#20222022-110---ben-created-chunk-concept-diagram)
 
+[2022/02/19 15:34 - Deandra](#20220219-1534---deandra-dog-graphics-and-visual-effects)
+
 [2022/02/18 19:00 - Alex](#20220218-1900---alex-udemy-course-part-2)
 
 [2022/02/18 14:00 - Fritz](#20220218-1400---fritz-sketching-diagrams-and-exploring-requirements)
@@ -39,7 +41,9 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/16 19:00 - Alex](#20220216-1900---alex-animation-timeline)
 
-[2022/02/15 11:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
+[2022/02/15 23:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
+
+[2022/02/15 21:19 - Deandra](#20220215-2119---deandra-audiotrigger-for-dog-barking)
 
 [2022/02/15 9:00 - Alex](#20220215---alex-unity-setup-and-exploration)
 
@@ -47,11 +51,15 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/12 11:22 -Ben](#20220212-1122---ben-began-working-with-strata-for-procedural-geneartion)
 
+[2022/02/11 13:30 - Deandra](#20220211-1330---deandra-touch-controls-for-dog-movement)
+
 [2022/02/10 14:00 - Fritz](#20220210-1400---fritz-finding-resources)
 
 [2020/02/10 9:23 - Ben](#20220210-923---ben-udemy-course-learning)
 
 [2022/02/08 15:13 - Ben](#20220208-1513---ben-unity-project-journal-cloned)
+
+[2022/02/08 11:08 - Deandra](#20220208-1108---deandra-c-basics)
 
 [2022/02/07 13:30 - Fritz](#20220207-1330---fritz-unity-project-setup)
 
@@ -106,6 +114,16 @@ Created Using LucidChart.
 
 ---
 
+### 2022/02/19 15:34 - Deandra: Dog graphics and visual effects
+
+Resource:
+
+[Sprites](https://docs.unity3d.com/2021.1/Documentation/Manual/Sprites.html)
+
+Our group hasn't decided on whether we're using low poly or high poly graphics. I have been doing research using unity documentation on how to create custom sprites for a player (dog in this case). I haven't attempted testing this out yet, but will be coming back to it.
+
+---
+
 ### 2022/02/18 19:00 - Alex: Udemy Course Part 2
 
 I spent another 30 min on the project doing the next 3 videos of the Udemy course which were instantiating enemies, coroutines, and while loops. Again, just trying to learn the system before going straight to my task. Its going smoothly as of right now. It takes you step by steps in the videos but don’t feel super comfortable with the information.
@@ -152,6 +170,12 @@ Began experimenting with the program myself in unity, watching the level be endl
 Conclusion, Tracking of events, and destroying checks will be useful for the mobile app.
 
 ---
+### 2022/02/15 21:19 - Deandra: Audio/trigger for dog barking
+
+In the Udemy course, there is a specific video on sound effects. The scripting used could be adapted to have the player (dog) bark at a specific time (will have to iron out the details with my team later). Import barking audio asset from the unity asset store?
+
+
+---
 
 ### 2022/02/15 9:00 - Alex: Unity Setup and Exploration
 
@@ -183,6 +207,16 @@ Determined this might not be the best option for our purposes of Developing a mo
 
 ---
 
+### 2022/02/11 13:30 - Deandra: Touch controls for dog movement
+
+Resources:
+[Touch Controls in Unity](https://www.youtube.com/watch?v=bp2PiFC9sSs)
+[Touch & Go](https://www.youtube.com/watch?v=Cw6B-VYNba0)
+
+I watched these youtube videos to help me understand how touch controls work in Unity. I found the resource to be extremely helpful to begin a dog prototype as they covered how to implement different movements for a 2D player. The video covered using a joystick to help the player move around, which I think would be an awesome idea but would need to consult with my team members to see if they like the idea.
+
+---
+
 ### 2022/02/10 14:00 - Fritz: Finding Resources
 
 I was told to focus my research on how to manage the scene and data management side of the game. 
@@ -207,6 +241,12 @@ Watched 2 hours of video to farmilarize myself with Unity using the Udemy Laser 
 ### 2022/02/08 15:13 - Ben: Unity Project Journal Cloned
 
 Cloned the journal from github and unity project from github and began research on procedural generation.
+
+---
+
+### 2022/02/08 11:08 - Deandra: C# basics
+
+I was a bit lost with C# scripting in the Udemy course videos so I had to familiarize myself with C# basics [not sure how long it took; maybe an hour or so?] using Code academy which was suggested by Ben in an earlier meeting. 
 
 ---
 
