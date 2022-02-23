@@ -39,6 +39,8 @@ a quick .md formatting guide is available at the link below:
 
 [2022/02/17 19:00 - Alex](#20220217-1900---alex-udemy-course-part-1)
 
+[2022/02/16 20:00 - Noah](#20220216-2000---noah-more-work-on-udemy-course)
+
 [2022/02/16 19:00 - Alex](#20220216-1900---alex-animation-timeline)
 
 [2022/02/15 23:57 - Ben](#20220215-1157---ben-researched-chunk-spawning-and-event-tracking)
@@ -152,6 +154,28 @@ I spent about 30 min again on our project. I continued the Udemy course on the l
 
 ---
 
+### 2022/02/16 20:00 - Noah: More Work on Udemy Course
+
+Continued udemy course:
+ - Created screen boundaries with padding (to avoid player leaving/clipping off screen)
+ - Created two paths for enemy pathfinding
+ - Created two waves composed of a path and enemies
+ - Created scripts to handle spawning enemy waves
+
+At this point, I ran into an issue.  When I ran the game, two waves would spawn, but they would both be the same wave (same path/enemies).  I spent 15min looking through all the prefabs used to spawn the enemy waves, but as far as I could tell, everything was wired up correctly.
+
+![Same Wave](./assets/laserDefenderWave0.gif)
+
+After a short break (and thinking about it more), I realized the for loop in the enemy spawner script was not updating the current wave.
+
+![Updating Current Wave](./assets/updateCurrentWave.PNG)
+
+After adding that line of code to update the wave, the game plays correctly
+
+![Different Waves](./assets/laserDefenderWave1.gif)
+
+---
+
 ### 2022/02/16 19:00 - Alex: Animation Timeline
 
 Today I only spent about 30 minutes continuing my exploration of Unity. Today I focused more on the task I was given into the group which was Art Animations/ Polishing up. I found a video on YouTube that has of Animation basics in Unity. I was only able to get through the first video and get a true grasp of what he was explaining. This was more of timeline animation then actual programming animations. 
@@ -224,6 +248,8 @@ When I was working on the player movement script for the udemdy course I noticed
 ![Prefrences](./assets/editPref.PNG)
 
 After that fix IntelliSense seemed to be back up and running!
+
+*NOTE:  While Intellisense is not strictly speaking necessary for Unity development, it is invaluable to the learning process - particularly with unfamiliar languages/libraries.  Further, it is confidence inspiring to see that fresh code you're writing "makes sense" without needing to repeatedly check documentation.*
 
 ![Tab-Complete](./assets/tabComplete.png)
 
