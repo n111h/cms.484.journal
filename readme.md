@@ -118,7 +118,7 @@ Created Using LucidChart.
 
 Resource:
 
-[Sprites](https://docs.unity3d.com/2021.1/Documentation/Manual/Sprites.html)
+[Unity sprites documentation](https://docs.unity3d.com/2021.1/Documentation/Manual/Sprites.html)
 
 Our group hasn't decided on whether we're using low poly or high poly graphics. I have been doing research using unity documentation on how to create custom sprites for a player (dog in this case). I haven't attempted testing this out yet, but will be coming back to it.
 
@@ -210,8 +210,10 @@ Determined this might not be the best option for our purposes of Developing a mo
 ### 2022/02/11 13:30 - Deandra: Touch controls for dog movement
 
 Resources:
-[Touch Controls in Unity](https://www.youtube.com/watch?v=bp2PiFC9sSs)
-[Touch & Go](https://www.youtube.com/watch?v=Cw6B-VYNba0)
+
+[Touch Controls in Unity video](https://www.youtube.com/watch?v=bp2PiFC9sSs)
+
+[Touch & Go video](https://www.youtube.com/watch?v=Cw6B-VYNba0)
 
 I watched these youtube videos to help me understand how touch controls work in Unity. I found the resource to be extremely helpful to begin a dog prototype as they covered how to implement different movements for a 2D player. The video covered using a joystick to help the player move around, which I think would be an awesome idea but would need to consult with my team members to see if they like the idea.
 
