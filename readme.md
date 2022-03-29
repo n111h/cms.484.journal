@@ -25,6 +25,10 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/03/28 14:00 - Fritz](#20220328-1400---fritz-implementing-new-features)
+
+[2022/03/22 17:00 - Fritz](#20220322-1700---fritz-creating-minimum-viable-product)
+
 [2022/02/22 14:00 - Ben](#20222222-200---ben-finishing-research-on-tiles)
 
 [2022/02/22 10:00 - Fritz](#20220222-1000---fritz-digital-concept-diagrams)
@@ -74,6 +78,34 @@ a quick .md formatting guide is available at the link below:
 [2022/02/07 11:25 - Deandra](#20220207-1125---deandra-udemy-course-learning)
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
+
+---
+
+### 2022/03/28 14:00 - Fritz: Implementing New Features
+
+In class, I fixed bugs and added features:
+
+* Added score reset when playing the game again
+* Fixed canvas scaling so that it would look consistent across all devices
+* Added score and highscore text to end scene
+* Modified sheep to rotate towards where they are moving
+* Modified dog to rotate toward user's click
+* Modified visibility of chunk's parent variable
+* Helped Ben with commenting his lake's code, and did a few tweaks to the feature he introduced to see if it improved feeling of gameplay
+
+---
+
+### 2022/03/22 17:00 - Fritz: Creating Minimum Viable Product
+
+Integrated all of the parts for the game.
+
+I made sure we had a minimum viable product (used for Sprint 3 Demo). 
+
+I used Ben's level/terrain generation, modified it, and made it work with the other pieces. Also used some of Alex's sheep code for the sheep to work, while make sure it worked with all the rest. 
+
+Then I developed the dog, and ensured everything worked smoothly with the data and scene layers. Created gameover condition, checked important data was being tracked, etc.
+
+Created first build, worked on Sprint 3 document with Ben, and submitted project.
 
 --- 
 
