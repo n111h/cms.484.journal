@@ -25,9 +25,22 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+
+[2022/03/28 20:00 - Ben](#20220328-2000---ben-implementing-new-obstacles-and-chunks)
+
 [2022/03/28 14:00 - Fritz](#20220328-1400---fritz-implementing-new-features)
 
 [2022/03/22 17:00 - Fritz](#20220322-1700---fritz-creating-minimum-viable-product)
+
+[2022/03/20 13:00 - Ben](#20220320-1300---ben-cleaned-up-spawning-and-added-kill-zone)
+
+[2022/03/14 18:00 - Ben](#20220314-1800---ben-added-chunk-spawning) 
+
+[2022/03/10 17:00 - Ben](#20220310-1700---ben-began-added-chunk-transformation)
+
+[2022/03/05 12:00 - Ben](#20220305-1200---ben-added-a-chunk-instantiation-system)
+
+[2022/03/01 15:00 - Ben](#20220301-1500---ben-began-implementing-chunk-systems) 
 
 [2022/02/22 14:00 - Ben](#20222222-200---ben-finishing-research-on-tiles)
 
@@ -80,6 +93,17 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+### 2022/03/28 20:00 - Ben: Implementing New Obstacles and Chunks
+
+    Added a Lake and Barn.
+
+    The Lake destroys the sheep on collision and fades the sheep out of the scene.
+
+    Barn instantiates new sheep to be spawned and the barn fades out of the scene.
+
+    Created new chunks 3-10
+
+---
 
 ### 2022/03/28 14:00 - Fritz: Implementing New Features
 
@@ -108,8 +132,51 @@ Then I developed the dog, and ensured everything worked smoothly with the data a
 Created first build, worked on Sprint 3 document with Ben, and submitted project.
 
 --- 
+### 2022/03/20 13:00 - Ben: Cleaned up Spawning and Added Kill Zone
 
-### 2022/22/22 14:00 - Ben: Finishing Research on Tiles
+    Cleaned up the spawning system to be less complicated
+
+    Added kill zone to destroy chunks when they leave the screen
+
+    Cleaned up chunk scaling to fit on new screen
+
+  ---   
+
+### 2022/03/14 18:00 - Ben: Added Chunk Spawning
+
+    Created a script to Instantiate a list of Chunks.
+
+    The Chunks must contain a script called Chunk to considered a chunk for the list.
+
+    Chunks have a size for how long until the next chunk will be spawned after the current chunk spawned.
+
+--- 
+
+### 2022/03/10 17:00 - Ben: Began Added Chunk Transformation
+
+    Used rigidbody to transform chunks down the scene.
+
+    Intially they had gravity but then that was switched off.
+
+    Need to add Spawning System and Kill Zone.
+
+--- 
+### 2022/03/05 12:00 - Ben: Added a Chunk Instantiation System
+
+    Used Strata as a base to develop a Chunk Instantiation System.
+
+--- 
+
+### 2022/03/01 15:00 - Ben: Began Implementing Chunk Systems
+
+    I created 2 test chunks only using fences and coliders.
+
+    In order to test the interactions between the dog and the fence.
+
+    I determined there was a gap in one of the coliders and that had to be fixed for later.
+
+--- 
+### 2022/02/22 14:00 - Ben: Finishing Research on Tiles
 
 Resources: 
 
@@ -141,7 +208,7 @@ I also explored and messed around with Serialization, and came up with some code
 
 ---
 
-### 2022/20/22 13:10 - Ben: Created Chunk Concept Diagram
+### 2022/02/22 13:10 - Ben: Created Chunk Concept Diagram
 
 Created the Following Chunk Concept Diagram.
 
