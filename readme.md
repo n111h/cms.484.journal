@@ -101,7 +101,7 @@ a quick .md formatting guide is available at the link below:
 
     Barn instantiates new sheep to be spawned and the barn fades out of the scene.
 
-    Created new chunks 3-10
+    Created new chunks 3-10.
 
 ---
 
@@ -134,11 +134,11 @@ Created first build, worked on Sprint 3 document with Ben, and submitted project
 --- 
 ### 2022/03/20 13:00 - Ben: Cleaned up Spawning and Added Kill Zone
 
-    Cleaned up the spawning system to be less complicated
+    Cleaned up the spawning system to be less complicated.
 
-    Added kill zone to destroy chunks when they leave the screen
+    Added kill zone to destroy chunks when they leave the screen.
 
-    Cleaned up chunk scaling to fit on new screen
+    Cleaned up chunk scaling to fit on new screen.
 
   ---   
 
