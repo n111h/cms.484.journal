@@ -105,7 +105,7 @@ a quick .md formatting guide is available at the link below:
 
     Added triggers vs. the old colliders for lakes.
 
-    Modification needed: Cut dog sound audio.
+    Modification needed: Cut dog sound audio - Update Added.
 
 ---
 ### 2022/03/29 20:37 - Ben: Addded Sound Design
