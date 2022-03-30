@@ -25,6 +25,7 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/03/29 20:37- Ben](#20220329-2037---ben-addded-sound-design)
 
 [2022/03/28 20:00 - Ben](#20220328-2000---ben-implementing-new-obstacles-and-chunks)
 
@@ -91,6 +92,17 @@ a quick .md formatting guide is available at the link below:
 [2022/02/07 11:25 - Deandra](#20220207-1125---deandra-udemy-course-learning)
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
+
+---
+### 2022/03/29 20:37 - Ben: Addded Sound Design
+
+    Added Sound for Lake and Barn Obstacles.
+
+    Added Main theme for Runner.
+
+    Added Instantiation Sounds for Sheep.
+
+    Added Barking Noise for Dog Traveling.
 
 ---
 ### 2022/03/28 20:00 - Ben: Implementing New Obstacles and Chunks
