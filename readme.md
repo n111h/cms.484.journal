@@ -25,6 +25,8 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/04/03 11:23- Ben](#20220403-1123---ben-added-new-lake-fences-and-gameplay-updates)
+
 [2022/03/30 15:47- Ben](#20220330-1547---ben-fixed-bugged-assets-and-modified-obstacles)
 
 [2022/03/29 20:37- Ben](#20220329-2037---ben-addded-sound-design)
@@ -96,7 +98,13 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+### 2022/04/03 11:23 - Ben: Added New Lake Fences and Gameplay Updates
 
+    Modified size of lakes to make it more fair.
+
+    Modified chunks with lakes to add a fence next to them.
+
+    Modified sounds and balenced gameplay with new sheep.
 ### 2022/03/30 15:47 - Ben: Fixed Bugged Assets and Modified Obstacles
 
     Modified collider on the lakes to better represent new sprites.
