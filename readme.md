@@ -118,6 +118,7 @@ a quick .md formatting guide is available at the link below:
     Tweaked sound design and destroy functions to play sounds appropriately.
 
     Added Sound Design for coins and Pickup features.
+
 ---
 ## 2022/04/03 11:23 - Ben: Added New Lake Fences and Gameplay Updates
 
@@ -126,6 +127,7 @@ a quick .md formatting guide is available at the link below:
     Modified chunks with lakes to add a fence next to them.
 
     Modified sounds and balenced gameplay with new sheep.
+
 ---
 ### 2022/03/30 15:47 - Ben: Fixed Bugged Assets and Modified Obstacles
 
@@ -196,7 +198,7 @@ Created first build, worked on Sprint 3 document with Ben, and submitted project
 
     Cleaned up chunk scaling to fit on new screen.
 
-  ---   
+---   
 
 ### 2022/03/14 18:00 - Ben: Added Chunk Spawning
 
