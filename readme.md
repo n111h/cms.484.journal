@@ -25,6 +25,8 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/04/11 14:23 - Ben](#20220411-1418---ben-added-new-chunks-and-instantiated-them)
+
 [2022/04/05 17:00 - Ben](#20220405-1700---ben-added-coins-and-sound-design-changes)
 
 [2022/04/03 11:23 - Ben](#20220403-1123---ben-added-new-lake-fences-and-gameplay-updates)
@@ -100,6 +102,15 @@ a quick .md formatting guide is available at the link below:
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
 
 ---
+### 2022/04/11 14:18 - Ben: Added New Chunks and Instantiated Them
+
+   Added Chunks 14-20.
+
+   Instantiated all of the chunks.
+
+   Heights fixed and fixed my bugs.
+
+---
 ### 2022/04/05 17:00 - Ben: Added Coins and Sound Design Changes
 
     Added Coins to chunks and Split Chunks.
@@ -107,16 +118,14 @@ a quick .md formatting guide is available at the link below:
     Tweaked sound design and destroy functions to play sounds appropriately.
 
     Added Sound Design for coins and Pickup features.
-
 ---
-### 2022/04/03 11:23 - Ben: Added New Lake Fences and Gameplay Updates
+## 2022/04/03 11:23 - Ben: Added New Lake Fences and Gameplay Updates
 
     Modified size of lakes to make it more fair.
 
     Modified chunks with lakes to add a fence next to them.
 
     Modified sounds and balenced gameplay with new sheep.
-
 ---
 ### 2022/03/30 15:47 - Ben: Fixed Bugged Assets and Modified Obstacles
 
