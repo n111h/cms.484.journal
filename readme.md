@@ -25,6 +25,8 @@ a quick .md formatting guide is available at the link below:
 ---
 
 ### Updates:
+[2022/04/19 20:41 - Ben](#20220419-2041---ben-added-coins-to-all-chunks)
+
 [2022/04/11 14:23 - Ben](#20220411-1418---ben-added-new-chunks-and-instantiated-them)
 
 [2022/04/05 17:00 - Ben](#20220405-1700---ben-added-coins-and-sound-design-changes)
@@ -100,6 +102,13 @@ a quick .md formatting guide is available at the link below:
 [2022/02/07 11:25 - Deandra](#20220207-1125---deandra-udemy-course-learning)
 
 [2022/02/06 19:40 - Noah](#20220206-1940---noah-first-update)
+
+---
+### 2022/04/19 20:41 - Ben: Added Coins to all Chunks
+
+   Added Coins to all chunks.
+
+   Fixed bugs pushed and pulled new changes.
 
 ---
 ### 2022/04/11 14:18 - Ben: Added New Chunks and Instantiated Them
